@@ -191,15 +191,7 @@ The test suite covers:
 - Duplicate and missing-value validation
 - Database initialization and analytics output shapes
 
-## Dashboard screenshots
 
-Screenshot placeholders will be added here once a local capture is available.
-
-- Executive Overview: pending screenshot
-- Delay Investigation: pending screenshot
-- Restaurant & Zone Performance: pending screenshot
-- Cancellation Analysis: pending screenshot
-- Recommendations: pending screenshot
 
 ## Limitations and future improvements
 
