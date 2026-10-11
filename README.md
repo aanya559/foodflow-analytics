@@ -172,13 +172,7 @@ This creates:
 streamlit run app.py
 ```
 
-The dashboard includes the following pages:
 
-1. Executive Overview
-2. Delay Investigation
-3. Restaurant & Zone Performance
-4. Cancellation Analysis
-5. Business Recommendations
 
 ## Testing
 
